@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ethers": "^6.13.2",
+    "ethersjs": "^0.0.1-security",
+    "express": "^4.19.2"
+  }
+}
