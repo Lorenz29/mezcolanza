@@ -4,8 +4,6 @@ This is a educational project built for The Level Up Hackathon. It's a new imple
 
 The contract was deployed in Scroll Sepolia: https://sepolia.scrollscan.com/address/0x0B379B60Ba6D267e6a27A801Aa3eCB118F1bffe2
 
-Pendiente: verificar el contrato. Pide el dato de circomVeriferAddress que no sé de dónde sacarlo para hacer la verificación.
-
 
 
 # 🌀Huracán
